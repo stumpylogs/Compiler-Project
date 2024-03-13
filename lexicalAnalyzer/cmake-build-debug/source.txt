@@ -1,0 +1,12 @@
+string "quote = "quotes";
+string words = "quote + "haha";
+
+
+
+
+
+
+
+
+
+
