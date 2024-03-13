@@ -1,0 +1,3 @@
+C:/Users/bbjam/OneDrive/Desktop/CSC work/Programming Languages/syntaxAnalyzer/cmake-build-debug/CMakeFiles/syntaxAnalyzer.dir
+C:/Users/bbjam/OneDrive/Desktop/CSC work/Programming Languages/syntaxAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bbjam/OneDrive/Desktop/CSC work/Programming Languages/syntaxAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
